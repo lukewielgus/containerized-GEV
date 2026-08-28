@@ -1,12 +1,11 @@
-node_modules
-dist
-.env
-*.log
-screenshots/
-qa-shots/
-output/
-.gev-logs/
-.gev-cache/
+# OS generated files #
+######################
 .DS_Store
-.gstack/
-3d-models/
+.DS_Store?
+.env
+
+# Directories #
+###############
+node_modules/
+logs/
+dist/
